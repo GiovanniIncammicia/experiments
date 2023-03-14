@@ -1,0 +1,8 @@
+{
+  "realm": "esg",
+  "auth-server-url": "http://localhost:9090/",
+  "ssl-required": "none",
+  "resource": "esg",
+  "public-client": true,
+  "confidential-port": 0
+}
